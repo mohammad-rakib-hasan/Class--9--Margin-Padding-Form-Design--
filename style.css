@@ -1,0 +1,111 @@
+.head{
+    background-color: #EDFAFD;
+}
+.body{
+    background-color: #7D8ABC;
+}
+.box{ 
+    background-color: #D6EFD8;
+    color: rgb(0, 0, 0);
+    width: 450px;
+    height:200px;
+    border: 5px solid rgb(0, 0, 0);
+    margin: auto;
+    border-radius: 15px; 
+}
+.footer{
+    background-color: #FFD3EB;
+}
+.footer-2{
+    background-color: #FFD3EB;
+}
+.footer-3{
+    background-color: #FFD3EB;
+}
+.header{
+    padding-left: 400px;
+}
+.header-2{
+    padding-left: 200px;
+}
+.body-1{
+    background-color: #ACE2E1;
+    height: 700px;
+    width: 600px;
+    margin: auto;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+.title{
+    padding-left: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 24px;
+
+}
+.title-1{
+    padding-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.title-2{
+    padding-left: 202px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    ;
+
+}
+.input-element{
+    width: 87%;
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 25px;
+}
+.input-element-2{
+    width: 87%;
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 25px;
+}
+
+.input-element-3{
+    width: 87%;
+    margin-left: 20px;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.input-element-4{
+    width: 87%;
+    margin-left: 20px;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+.input-element-5{
+    width: 87%;
+    margin-left: 20px;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+.button-type{
+    width: 300px;
+    margin-top: 60px;
+    margin-left: 145px;
+    padding: 11px;
+    border-radius: 20px;
+background-color: #FB0061;
+color: azure;
+}
+.cheekbox{
+    margin-top: 25px;
+    margin-left:20px;
+}

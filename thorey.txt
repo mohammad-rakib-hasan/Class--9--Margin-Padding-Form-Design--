@@ -1,0 +1,14 @@
+=====Margin-Padding====
+
+1. Take Extra Space Inside the Box (Padding)->Left/Right/Top/Bottom {vitor thke}
+2. Take Extra Space Outside the Box (Margin)-> Left/Right/Top/Bottom {baire theke}
+
+box-sizing-boder box
+
+text-alignn=center
+
+font-family= font text size boro 
+
+font-size= 
+
+bordar raidus
